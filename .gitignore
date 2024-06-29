@@ -1,0 +1,5 @@
+__pycache__
+sqlite.db
+.env
+alembic/versions/*.py
+.idea/
